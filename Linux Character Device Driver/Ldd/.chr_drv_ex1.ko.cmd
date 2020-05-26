@@ -1,0 +1,1 @@
+cmd_/home/manish/Ldd/chr_drv_ex1.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/manish/Ldd/chr_drv_ex1.ko /home/manish/Ldd/chr_drv_ex1.o /home/manish/Ldd/chr_drv_ex1.mod.o ;  true
